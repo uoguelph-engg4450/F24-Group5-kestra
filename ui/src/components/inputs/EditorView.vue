@@ -1263,7 +1263,7 @@
         }
 
         &::-webkit-scrollbar {
-            width: 2px;
+            width: 12px;        /* Changed the width to 12 px for better view*/
             height: 2px;
         }
 
@@ -1273,7 +1273,7 @@
 
         &::-webkit-scrollbar-thumb {
             background: var(--bs-primary);
-            border-radius: 0px;
+            border-radius: 26px;                    /* Changed border radius to 26px */
         }
     }
 
