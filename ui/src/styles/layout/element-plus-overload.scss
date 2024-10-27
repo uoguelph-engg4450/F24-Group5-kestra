@@ -582,7 +582,7 @@ form.ks-horizontal {
     --el-pagination-bg-color: transparent;
     --el-pagination-text-color: var(--bs-body-color);
     --el-pagination-button-color: var(--bs-body-color);
-    --el-pagination-hover-color: var(--bs-purple);
+    --el-pagination-hover-color: var(--bs-grey-800);          // changed it to grey from purple
 
     //html.dark & {
     //    --el-pagination-button-bg-color: var(--bs-gray-200);
